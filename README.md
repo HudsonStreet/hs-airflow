@@ -8,7 +8,7 @@ Airflow powered by OpenSource [Apache airflow](https://airflow.apache.org)
 
 ## Requirement
 * python 3.6+
-* dash 0.39.*
+* airflow 1.10+
 
 <pre>
  _   _           _                 ____  _                 _
